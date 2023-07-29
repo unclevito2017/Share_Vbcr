@@ -1,6 +1,7 @@
 # Share_Vbcr 
 tested on Win 10
 Add share functionality to VBCr.exe
+Completes all shares requested<br>
 first download VBCr.exe from https://github.com/WanderingPhilosopher/VanBitCrackenRandom2 <br>
 run python3 share_Vbcr.py<br>
 adjust time.sleep(70)  # (default) Wait for 70 seconds. adjust to your gpu speed
