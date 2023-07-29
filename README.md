@@ -1,6 +1,6 @@
 # Share_Vbcr 
-tested on Win 10
-Add share functionality to VBCr.exe
+tested on Win 10<br>
+Add share functionality to VBCr.exe<br>
 Completes all shares requested<br>
 first download VBCr.exe from https://github.com/WanderingPhilosopher/VanBitCrackenRandom2 <br>
 run python3 share_Vbcr.py<br>
